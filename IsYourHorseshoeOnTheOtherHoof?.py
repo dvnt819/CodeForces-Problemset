@@ -1,0 +1,5 @@
+x=input().split()
+y=len(x)
+x=set(x)
+x=len(x)
+print(y-x)
